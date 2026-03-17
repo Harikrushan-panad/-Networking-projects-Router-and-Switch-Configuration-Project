@@ -34,6 +34,7 @@ The network consists of:
 **6. IP Addressing**
 
 •	VLAN 10: 192.168.1.0/24
+
 •	VLAN 20: 192.168.2.0/24
 
 **6. Configuration Steps**
