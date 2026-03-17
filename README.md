@@ -1,4 +1,6 @@
-****Router and Switch Configuration Project Report**
+****Router and Switch Configuration Project Report***
+
+
 **1. Introduction****
 
 This project focuses on configuring network devices such as switches to manage data traffic, assign IP addresses, and control communication between devices. The goal is to understand real-world networking concepts.
