@@ -1,4 +1,4 @@
-****Router and Switch Configuration Project Report***
+***Router and Switch Configuration Project Report***
 
 
 **1. Introduction****
