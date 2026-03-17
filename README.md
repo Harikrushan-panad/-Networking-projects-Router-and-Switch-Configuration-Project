@@ -19,11 +19,17 @@ This project focuses on configuring network devices such as switches to manage d
  
 The network consists of:
 •	1 Router
+
 •	2 Switches
+
 •	4 PCs
+
 •	Two VLANs:
+
 •	VLAN 10 (Students)
+
 •	VLAN 20 (Faculty)
+
 
 **6. IP Addressing**
 
