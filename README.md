@@ -11,18 +11,18 @@ This project focuses on configuring network devices such as switches to manage d
 
 3. Tools Used
 
-	Cisco Packet Tracer
-	PCs and Switches
+•	Cisco Packet Tracer
+•	PCs and Switches
 
 4. Network Design
 
 The network consists of:
-	1 Router
-	2 Switches
-	4 PCs
-	Two VLANs:
-	VLAN 10 (Students)
-	VLAN 20 (Faculty)
+•	1 Router
+•	2 Switches
+•	4 PCs
+•	Two VLANs:
+•	VLAN 10 (Students)
+•	VLAN 20 (Faculty)
 
 5. IP Addressing
 
