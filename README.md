@@ -17,17 +17,17 @@ This project focuses on configuring network devices such as switches to manage d
 4. Network Design
 
 The network consists of:
-1.	1 Router
-2.	2 Switches
-3.	4 PCs
-4.	Two VLANs:
-5.	VLAN 10 (Students)
-6.	VLAN 20 (Faculty)
+	1 Router
+	2 Switches
+	4 PCs
+	Two VLANs:
+	VLAN 10 (Students)
+	VLAN 20 (Faculty)
 
 5. IP Addressing
 
-	VLAN 10: 192.168.1.0/24
-	VLAN 20: 192.168.2.0/24
+•	VLAN 10: 192.168.1.0/24
+•	VLAN 20: 192.168.2.0/24
 
 6. Configuration Steps
 
