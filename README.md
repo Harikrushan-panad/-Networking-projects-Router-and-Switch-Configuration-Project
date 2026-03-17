@@ -4,6 +4,7 @@
 This project focuses on configuring network devices such as switches to manage data traffic, assign IP addresses, and control communication between devices. The goal is to understand real-world networking concepts.
 
 **2. Objective**
+
 •	To configure switches using VLANs
 •	To assign IP addresses to devices
 •	To test connectivity between systems
