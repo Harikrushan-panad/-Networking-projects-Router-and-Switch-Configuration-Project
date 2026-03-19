@@ -12,6 +12,7 @@ This project focuses on configuring network devices such as switches to manage d
 •	To test connectivity between systems
 •	To understand network segmentation
 **
+
 **3. Tools Used****
 
 •	Cisco Packet Tracer
