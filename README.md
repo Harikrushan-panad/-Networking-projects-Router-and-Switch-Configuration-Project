@@ -42,11 +42,17 @@ The network consists of:
 **6. Configuration Steps**
 
 o	Devices were placed in Cisco Packet Tracer
+
 o	Switches are connected to  Router
+
 o	PCs were connected to switches
+
 o	IP addresses were assigned manually
+
 o	VLANs were created on switches
+
 o	Ports were assigned to VLANs
+
 o	Switches were connected
 
 **7. Testing and Results**
